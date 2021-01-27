@@ -1,0 +1,6 @@
+#  Archivos a omitir en el repositorio
+Nuevo documento de texto.txt
+*.tmp
+
+# Carpetas a ignorar en el repositorio
+tmp\*.*
